@@ -66,7 +66,7 @@ _Cascade Pacific Pulp - Halsey, OR | Sept 2021 - Present_
 
 **Teaching and Research Assistant**  
 _Oregon State University – Corvallis, OR | Sept 2019 – Sept 2021_  
-- Conducted gradate research on topographic modeling of the Oregon Coast, utilizing Python and Matlab to explore the interactions between climate, uplift, and erosion.
+- Conducted graduate research on topographic modeling of the Oregon Coast, utilizing Python and Matlab to explore the interactions between climate, uplift, and erosion.
 - Assisted in developing, teaching, and grading coursework for geology courses.
 
 **USGS - NAGT Intern**  
