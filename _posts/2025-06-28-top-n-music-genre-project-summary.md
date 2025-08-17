@@ -12,7 +12,7 @@ tags:
   - Keras
   - Artifical Intelligence
 classes: wide
----
+
 
 Project Overview: The Top-N Music Genre Classification Neural Network is a web application that uses a convolutional neural network to analyze audio files or YouTube links and predict the most likely music genres \
 Link to Repository: https://github.com/katherineworms/music-genre-nn \
@@ -50,6 +50,7 @@ Samantha Evans – evanss4@oregonstate.edu
 Miguel Fernandez – fernandezm0115@gmail.com
 
 Katherine Worms – wormsk@oregonstate.edu
+---
 
 
 
