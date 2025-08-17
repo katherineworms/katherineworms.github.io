@@ -13,6 +13,7 @@ At work, I clearly define the overall goals of a project and make sure each smal
 I am looking forward to new employment opportunities as I transition into computer science. I believe I offer a diverse perspective and a strong work ethic, and I would enjoy collaborating with a passionate team. Although I am new to the field, I am not new to hard work or to stepping up to challenges. Whatever I don’t yet know, I’ll be eager to figure out.
 
 Please feel free to reach out with any questions you may have – I’d love to chat. 
+
 Katherine 
 
 katherine.worms@gmail.com
